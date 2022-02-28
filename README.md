@@ -34,7 +34,9 @@ Colors & Textures: https://forms.gle/GTjpYQ9BzTNjzdW7A
 
 ### Link to used Unity Assets:
 Stone Texture: https://assetstore.unity.com/packages/2d/textures-materials/brick/18-high-resolution-wall-textures-12567
+
 Wood Texture: https://assetstore.unity.com/packages/2d/textures-materials/wood-textures-4k-179233
+
 Walls: https://assetstore.unity.com/packages/3d/environments/snaps-prototype-office-137490
 
 ### Link to Overleaf Project:
