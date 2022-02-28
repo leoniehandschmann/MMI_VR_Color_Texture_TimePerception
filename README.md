@@ -1,4 +1,4 @@
-# MMI_VR_Color_Texture_TimePerception
+# The Influence of Colour and Texture Design in Virtual Reality Environments onTime Perception
 
 ## This is a study from the course "Forschungsseminar MMI" of the University of Regensburg.
 
