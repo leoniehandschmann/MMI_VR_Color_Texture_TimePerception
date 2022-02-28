@@ -1,4 +1,4 @@
-# The Influence of Colour and Texture Design in Virtual Reality Environments onTime Perception
+# The Influence of Colour and Texture Design in Virtual Reality Environments on Time Perception
 
 ## This is a study from the course "Forschungsseminar MMI" of the University of Regensburg.
 
